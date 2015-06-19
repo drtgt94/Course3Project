@@ -1,3 +1,5 @@
+####Data Dictionary - summaryDataset
+
 ========================================================================================
 
    summaryDataset.Activity 'Type of Activity Subject Performed'
@@ -9,12 +11,12 @@
 
           Values and labels    N    Percent 
                                             
-   1   'LAYING'               30   16.7 16.7
-   2   'SITTING'              30   16.7 16.7
-   3   'STANDING'             30   16.7 16.7
-   4   'WALKING'              30   16.7 16.7
-   5   'WALKING_DOWNSTAIRS'   30   16.7 16.7
-   6   'WALKING_UPSTAIRS'     30   16.7 16.7
+   1.   'LAYING'               30   16.7 16.7
+   2.   'SITTING'              30   16.7 16.7
+   3.   'STANDING'             30   16.7 16.7
+   4.   'WALKING'              30   16.7 16.7
+   5.   'WALKING_DOWNSTAIRS'   30   16.7 16.7
+   6.   'WALKING_UPSTAIRS'     30   16.7 16.7
 
 ========================================================================================
 
