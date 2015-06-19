@@ -148,7 +148,7 @@ FinalDataset %>%
         summarise_each(funs(mean))
 ```
 
-####Write the summarized dataset out to a csv file
+####Write the summarized dataset out to a txt file
 
 ```
 write.table(summaryDataset, file = "./data/final.txt", sep=",", row.names=FALSE)
